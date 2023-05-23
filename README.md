@@ -11,6 +11,8 @@ https://iconss.netlify.app
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/4ebf2c9b-6734-4d76-b337-881d408e571e/deploy-status)](https://app.netlify.com/sites/iconss/deploys)
 
+http://icons.guanfu.org/
+
 
 <h3 align="center">Bootstrap Icons</h3>
 
